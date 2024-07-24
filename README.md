@@ -1,4 +1,4 @@
-Internship project which involved cleanong and analyzing data, visualizing trends and relationships, to ultimately create an interactive dashboard that will provide valuable insights to the leadership team at Excelerate.
+Internship project which involved cleaning aand processing data, analyzing and visualizing trends and relationships, to ultimately create an interactive dashboard that will provide valuable insights to the leadership team at Excelerate.
 
 Contents:
 - SQL Code to an Exploratory Data Analysis (EDA) report.
